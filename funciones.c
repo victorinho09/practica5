@@ -1,6 +1,7 @@
 // Este fichero contiene las funciones necesarias para la practica
 
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
